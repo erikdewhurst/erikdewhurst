@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @erikdewhurst
-- 👀 I’m interested in Unity development, Game Design, and puzzle design
+- 👀 I’m a game developer, Game Design, and puzzle designer
 - 🌱 I’m currently learning a whole slew of things
 - 📫 Find me on Twitter: @erikdewhurst
