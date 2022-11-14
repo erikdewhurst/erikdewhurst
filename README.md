@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @erikdewhurst
 - 👀 I’m a video game developer, designer, and doer of all the things surrounding video games.
 - 🌱 I’m currently learning a whole slew of things
-- 📫 Find me on Twitter: @erikdewhurst
+- 📫 Find me on Twitter: @erikdewhurst (unless twitter has imploded by the time you read this)
