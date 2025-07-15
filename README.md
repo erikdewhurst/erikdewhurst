@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @erikdewhurst
-- 👀 I’m a video game developer, designer, and doer of all the things surrounding video games.
-- 🌱 I always have a project or two in the works. Ask me and, if I'm not under NDA, I'll tell you all about them.
+- 👀 I’m a video game developer, designer, and doer of all the things.
+- 🌱 I always have project in the works. If I'm not under NDA, I'll tell you all about them.
